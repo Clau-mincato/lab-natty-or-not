@@ -11,13 +11,12 @@ Stable Diffusion: Para gerar a imagem do Yorkshire no estádio, refinar detalhes
 🧐 Processo de Criação
 
 Conceito: Definimos a ideia de um Yorkshire fofinho em um estádio de futebol, vestindo a camisa da seleção brasileira.
-Geração da Imagem: Utilizamos o DALL-E para criar a imagem inicial.
-Refinamento: Com o Stable Diffusion, aprimoramos detalhes como a textura da camisa e a expressão do cachorro.
-Ajustes Finais: Usamos o Photoshop para corrigir cores, adicionar sombras e garantir que a imagem final fosse visualmente atraente.
+Geração da Imagem: Utilizamos o Stable Diffusion para criar a imagem inicial, aprimoramos detalhes como a textura da camisa e a expressão do cachorro.
+
 
 🚀 Resultados
 
-O resultado foi uma imagem encantadora de um Yorkshire fofinho, perfeitamente integrado ao ambiente de um estádio de futebol, vestindo orgulhosamente a camisa da seleção brasileira. A imagem demonstra a capacidade das IAs generativas de criar conteúdo visual de alta qualidade e com grande apelo emocional.
+O resultado foi uma imagem encantadora de um Yorkshire fofinho, perfeitamente integrado ao ambiente de um estádio de futebol, vestindo orgulhosamente a camisa da seleção brasileira. A imagem demonstra a capacidade das IAs generativas de criar conteúdo visual de alta qualidade.
 
 💭 Reflexão (Opcional)
 
