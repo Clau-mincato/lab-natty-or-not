@@ -22,6 +22,7 @@ O resultado foi uma imagem encantadora de um Yorkshire fofinho, perfeitamente in
 
 Criar algo 'natty' com IA foi um desafio interessante. A combinação de diferentes tecnologias permitiu alcançar um resultado que não só atende às expectativas, mas também surpreende pela qualidade e realismo. Este projeto mostra como a IA pode ser uma ferramenta poderosa na criação de conteúdo visual criativo e envolvente.
 
+Link para imagem: https://assets.monica.im/ugc-files/image-gen/text_to_image/dbec96d5-ee33-4d7c-bf1d-020ee0c183b4/2rNQPmpBsEEsCJfiI95ecqj3gaO-0x1365.jpeg
 
 
  
